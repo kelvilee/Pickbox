@@ -1,0 +1,242 @@
+[
+  {
+    "pack": 1,
+    "name": "You Don't Know Jack 2015",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "image": "/YDKJ2015tile.webp",
+    "launcher": "steam://run/331670"
+  },
+  {
+    "pack": 1,
+    "name": "Drawful",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/Drawfultile.webp",
+    "launcher": "steam://run/331670"
+  },
+  {
+    "pack": 1,
+    "name": "Word Spud",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "image": "/WordSpudtile.webp",
+    "launcher": "steam://run/331670"
+  },
+  {
+    "pack": 1,
+    "name": "Lie Swatter",
+    "minPlayers": 1,
+    "maxPlayers": 100,
+    "image": "/LieSwattertile.webp",
+    "launcher": "steam://run/331670"
+  },
+  {
+    "pack": 1,
+    "name": "Fibbage XL",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "image": "/FibbageXLtile.webp",
+    "launcher": "steam://run/331670"
+  },
+  {
+    "pack": 2,
+    "name": "Fibbage 2",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "image": "/Fibbage2tile.webp",
+    "launcher": "steam://run/397460"
+  },
+  {
+    "pack": 2,
+    "name": "Earwax",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/Earwaxtile.webp",
+    "launcher": "steam://run/397460"
+  },
+  {
+    "pack": 2,
+    "name": "Bidiots",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "image": "/Bidiotstile.webp",
+    "launcher": "steam://run/397460"
+  },
+  {
+    "pack": 2,
+    "name": "Quiplash XL",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/QuiplashXLtile.webp",
+    "launcher": "steam://run/397460"
+  },
+  {
+    "pack": 2,
+    "name": "Bomb Corp.",
+    "minPlayers": 1,
+    "maxPlayers": 4,
+    "image": "/BombCorptile.webp",
+    "launcher": "steam://run/397460"
+  },
+  {
+    "pack": 3,
+    "name": "Quiplash 2",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/PP3Tile_Quiplash2.webp",
+    "launcher": "steam://run/434170"
+  },
+  {
+    "pack": 3,
+    "name": "Trivia Murder Party",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "image": "/PP3Tile_TMP.webp",
+    "launcher": "steam://run/434170"
+  },
+  {
+    "pack": 3,
+    "name": "Guesspionage",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "image": "/PP3Tile_Guess.webp",
+    "launcher": "steam://run/434170"
+  },
+  {
+    "pack": 3,
+    "name": "Fakin' It",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "image": "/PP3Tile_FakinIt.webp",
+    "launcher": "steam://run/434170"
+  },
+  {
+    "pack": 3,
+    "name": "Tee K.O.",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/PP3Tile_TKO.webp",
+    "launcher": "steam://run/434170"
+  },
+  {
+    "pack": 4,
+    "name": "Fibbage 3 / Fibbage: Enough About You",
+    "minPlayers": 2,
+    "maxPlayers": 8,
+    "image": "/Fibbage3_EAU.webp",
+    "launcher": "steam://run/610180"
+  },
+  {
+    "pack": 4,
+    "name": "Survive the Internet",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/SurviveTheInternet.webp",
+    "launcher": "steam://run/610180"
+  },
+  {
+    "pack": 4,
+    "name": "Monster Seeking Monster",
+    "minPlayers": 3,
+    "maxPlayers": 7,
+    "image": "/MonsterSeekingMonster.webp",
+    "launcher": "steam://run/610180"
+  },
+  {
+    "pack": 4,
+    "name": "Bracketeering",
+    "minPlayers": 3,
+    "maxPlayers": 16,
+    "image": "/Bracketeering.webp",
+    "launcher": "steam://run/610180"
+  },
+  {
+    "pack": 4,
+    "name": "Civic Doodle",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/CivicDoodle.webp",
+    "launcher": "steam://run/610180"
+  },
+  {
+    "pack": 5,
+    "name": "You Don't Know Jack: Full Stream",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "image": "/1-YDKJ.webp",
+    "launcher": "steam://run/774461"
+  },
+  {
+    "pack": 5,
+    "name": "Split the Room",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/2-STR.webp",
+    "launcher": "steam://run/774461"
+  },
+  {
+    "pack": 5,
+    "name": "Mad Verse City",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/MVC-4.webp",
+    "launcher": "steam://run/774461"
+  },
+  {
+    "pack": 5,
+    "name": "Zeeple Dome",
+    "minPlayers": 1,
+    "maxPlayers": 6,
+    "image": "/ZD-5.webp",
+    "launcher": "steam://run/774461"
+  },
+  {
+    "pack": 5,
+    "name": "Patently Stupid",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/3-PS.webp",
+    "launcher": "steam://run/774461"
+  },
+  {
+    "pack": 6,
+    "name": "Trivia Murder Party 2",
+    "minPlayers": 1,
+    "maxPlayers": 8,
+    "image": "/TMP2_tile.webp",
+    "launcher": "steam://run/1005300"
+  },
+  {
+    "pack": 6,
+    "name": "Dictionarium",
+    "minPlayers": 3,
+    "maxPlayers": 6,
+    "image": "/TJPP6_Dictionarium.webp",
+    "launcher": "steam://run/1005300"
+  },
+  {
+    "pack": 6,
+    "name": "Joke Boat",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/TJPP6_JokeBoat.webp",
+    "launcher": "steam://run/1005300"
+  },
+  {
+    "pack": 6,
+    "name": "Push The Button",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/TJPP6_PushTheButton.webp",
+    "launcher": "steam://run/1005300"
+  },
+  {
+    "pack": 6,
+    "name": "Role Models",
+    "minPlayers": 4,
+    "maxPlayers": 10,
+    "image": "/TJPP6_RoleModels.webp",
+    "launcher": "steam://run/1005300"
+  }
+]
