@@ -4,7 +4,7 @@
     "name": "You Don't Know Jack 2015",
     "minPlayers": 1,
     "maxPlayers": 4,
-    "image": "/YDKJ2015tile.webp",
+    "image": "/YDKJ2015tile.jpg",
     "launcher": "steam://run/331670"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Drawful",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/Drawfultile.webp",
+    "image": "/Drawfultile.jpg",
     "launcher": "steam://run/331670"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Word Spud",
     "minPlayers": 2,
     "maxPlayers": 8,
-    "image": "/WordSpudtile.webp",
+    "image": "/WordSpudtile.jpg",
     "launcher": "steam://run/331670"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Lie Swatter",
     "minPlayers": 1,
     "maxPlayers": 100,
-    "image": "/LieSwattertile.webp",
+    "image": "/LieSwattertile.jpg",
     "launcher": "steam://run/331670"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Fibbage XL",
     "minPlayers": 2,
     "maxPlayers": 8,
-    "image": "/FibbageXLtile.webp",
+    "image": "/FibbageXLtile.jpg",
     "launcher": "steam://run/331670"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Fibbage 2",
     "minPlayers": 2,
     "maxPlayers": 8,
-    "image": "/Fibbage2tile.webp",
+    "image": "/Fibbage2tile.jpg",
     "launcher": "steam://run/397460"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Earwax",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/Earwaxtile.webp",
+    "image": "/Earwaxtile.jpg",
     "launcher": "steam://run/397460"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Bidiots",
     "minPlayers": 3,
     "maxPlayers": 6,
-    "image": "/Bidiotstile.webp",
+    "image": "/Bidiotstile.jpg",
     "launcher": "steam://run/397460"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Quiplash XL",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/QuiplashXLtile.webp",
+    "image": "/QuiplashXLtile.jpg",
     "launcher": "steam://run/397460"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Bomb Corp.",
     "minPlayers": 1,
     "maxPlayers": 4,
-    "image": "/BombCorptile.webp",
+    "image": "/BombCorptile.jpg",
     "launcher": "steam://run/397460"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Quiplash 2",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/PP3Tile_Quiplash2.webp",
+    "image": "/PP3Tile_Quiplash2.jpg",
     "launcher": "steam://run/434170"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Trivia Murder Party",
     "minPlayers": 1,
     "maxPlayers": 8,
-    "image": "/PP3Tile_TMP.webp",
+    "image": "/PP3Tile_TMP.jpg",
     "launcher": "steam://run/434170"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Guesspionage",
     "minPlayers": 2,
     "maxPlayers": 8,
-    "image": "/PP3Tile_Guess.webp",
+    "image": "/PP3Tile_Guess.jpg",
     "launcher": "steam://run/434170"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Fakin' It",
     "minPlayers": 3,
     "maxPlayers": 6,
-    "image": "/PP3Tile_FakinIt.webp",
+    "image": "/PP3Tile_FakinIt.jpg",
     "launcher": "steam://run/434170"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Tee K.O.",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/PP3Tile_TKO.webp",
+    "image": "/PP3Tile_TKO.jpg",
     "launcher": "steam://run/434170"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Fibbage 3 / Fibbage: Enough About You",
     "minPlayers": 2,
     "maxPlayers": 8,
-    "image": "/Fibbage3_EAU.webp",
+    "image": "/Fibbage3_EAU.jpg",
     "launcher": "steam://run/610180"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Survive the Internet",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/SurviveTheInternet.webp",
+    "image": "/SurviveTheInternet.jpg",
     "launcher": "steam://run/610180"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Monster Seeking Monster",
     "minPlayers": 3,
     "maxPlayers": 7,
-    "image": "/MonsterSeekingMonster.webp",
+    "image": "/MonsterSeekingMonster.jpg",
     "launcher": "steam://run/610180"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Bracketeering",
     "minPlayers": 3,
     "maxPlayers": 16,
-    "image": "/Bracketeering.webp",
+    "image": "/Bracketeering.jpg",
     "launcher": "steam://run/610180"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Civic Doodle",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/CivicDoodle.webp",
+    "image": "/CivicDoodle.jpg",
     "launcher": "steam://run/610180"
   },
   {
@@ -164,7 +164,7 @@
     "name": "You Don't Know Jack: Full Stream",
     "minPlayers": 1,
     "maxPlayers": 8,
-    "image": "/1-YDKJ.webp",
+    "image": "/1-YDKJ.jpg",
     "launcher": "steam://run/774461"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Split the Room",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/2-STR.webp",
+    "image": "/2-STR.jpg",
     "launcher": "steam://run/774461"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Mad Verse City",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/MVC-4.webp",
+    "image": "/MVC-4.jpg",
     "launcher": "steam://run/774461"
   },
   {
@@ -188,7 +188,7 @@
     "name": "Zeeple Dome",
     "minPlayers": 1,
     "maxPlayers": 6,
-    "image": "/ZD-5.webp",
+    "image": "/ZD-5.jpg",
     "launcher": "steam://run/774461"
   },
   {
@@ -196,7 +196,7 @@
     "name": "Patently Stupid",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/3-PS.webp",
+    "image": "/3-PS.jpg",
     "launcher": "steam://run/774461"
   },
   {
@@ -204,7 +204,7 @@
     "name": "Trivia Murder Party 2",
     "minPlayers": 1,
     "maxPlayers": 8,
-    "image": "/TMP2_tile.webp",
+    "image": "/TMP2_tile.jpg",
     "launcher": "steam://run/1005300"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Dictionarium",
     "minPlayers": 3,
     "maxPlayers": 6,
-    "image": "/TJPP6_Dictionarium.webp",
+    "image": "/TJPP6_Dictionarium.jpg",
     "launcher": "steam://run/1005300"
   },
   {
@@ -220,7 +220,7 @@
     "name": "Joke Boat",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/TJPP6_JokeBoat.webp",
+    "image": "/TJPP6_JokeBoat.jpg",
     "launcher": "steam://run/1005300"
   },
   {
@@ -228,7 +228,7 @@
     "name": "Push The Button",
     "minPlayers": 3,
     "maxPlayers": 8,
-    "image": "/TJPP6_PushTheButton.webp",
+    "image": "/TJPP6_PushTheButton.jpg",
     "launcher": "steam://run/1005300"
   },
   {
@@ -236,7 +236,7 @@
     "name": "Role Models",
     "minPlayers": 4,
     "maxPlayers": 10,
-    "image": "/TJPP6_RoleModels.webp",
+    "image": "/TJPP6_RoleModels.jpg",
     "launcher": "steam://run/1005300"
   }
 ]
