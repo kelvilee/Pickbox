@@ -5,7 +5,7 @@ import { shuffle } from "../lib/functions";
 import GameCard from "../components/GameCard";
 
 export default function Home({ allGamesData }) {
-  const [gameList, setGameList] = useState(allGamesData);
+  const [gameList, setGameList] = useState(shuffle(allGamesData));
   const [game, setGame] = useState({});
 
   const handleClick = () => {
@@ -55,7 +55,7 @@ export default function Home({ allGamesData }) {
 
 export async function getStaticProps() {
   const allGamesData = getGamesData();
-  shuffle(allGamesData);
+
   return {
     props: {
       allGamesData,
