@@ -9,13 +9,15 @@ export default function Home({ allGamesData }) {
   const [game, setGame] = useState({});
 
   const handleClick = () => {
-    if (gameList.length === 1) {
-      setGameList(shuffle(allGamesData));
-    } else {
-      setGameList(gameList.slice(1));
-    }
+    const nextGameList = gameList.slice(1);
+    nextGameList.length === 0
+      ? setGameList(shuffle(allGamesData))
+      : setGameList(nextGameList);
   };
 
+  /**
+   * ComponentDidUpdate when gameList changes
+   */
   useEffect(() => {
     setGame(gameList[0]);
   }, [gameList]);
@@ -39,16 +41,14 @@ export default function Home({ allGamesData }) {
           GENERATE
         </button>
       </div>
-      {game.name !== undefined && (
-        <GameCard
-          pack={game.pack}
-          name={game.name}
-          minPlayers={game.minPlayers}
-          maxPlayers={game.maxPlayers}
-          image={game.image}
-          launcher={game.launcher}
-        />
-      )}
+      <GameCard
+        pack={game.pack}
+        name={game.name}
+        minPlayers={game.minPlayers}
+        maxPlayers={game.maxPlayers}
+        image={game.image}
+        launcher={game.launcher}
+      />
     </div>
   );
 }

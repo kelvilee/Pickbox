@@ -9,7 +9,7 @@ body {
 }
 
 .container {
-  max-width: 36rem;
+  max-width: 24rem;
   margin: 0 auto;
 }
 
@@ -29,24 +29,24 @@ a:hover {
 img {
   max-width: 100%;
   border-radius: 5px 5px 0 0;
-  display: block;
 }
 
 .card {
-  margin: 24px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.3s;
-  border-radius: 5px; /* 5px rounded corners */
+  border-radius: 5px;
+  margin: 0 auto;
 }
 
 .card-desc {
+  font-size: 16px;
   text-align: center;
-  padding-bottom: 16px;
+  padding-bottom: 1rem;
 }
 
 .heading {
-  font-size: 1.2rem;
-  line-height: 1.5;
+  font-size: 1.5rem;
+  line-height: 1;
   text-align: center;
 }
 
@@ -59,13 +59,13 @@ img {
 }
 
 .button {
-  height: 48px;
+  height: 3rem;
   border-radius: 12px;
   font-size: 14px;
   transition: color 1s, background-position 1s, box-shadow 1s;
   color: #fff;
   background: #4254f4;
-  width: 100%;
-  max-width: 420px;
+  width: 300px;
   cursor: pointer;
+  margin: 1rem auto;
 }

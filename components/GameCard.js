@@ -3,9 +3,9 @@ export default function GameCard(props) {
     <div className="card">
       <img src={props.image} alt={props.name} />
       <div className="card-desc">
-        <h2>
+        <h3>
           <b>{props.name}</b>
-        </h2>
+        </h3>
         <p>Party Pack: {props.pack}</p>
         <p>
           Players: {props.minPlayers}-{props.maxPlayers}
