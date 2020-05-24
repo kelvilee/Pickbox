@@ -238,5 +238,13 @@
     "maxPlayers": 10,
     "image": "/TJPP6_RoleModels.jpg",
     "launcher": "steam://run/1005300"
+  },
+  {
+    "pack": "N/A",
+    "name": "Drawful 2",
+    "minPlayers": 3,
+    "maxPlayers": 8,
+    "image": "/drawful2.jpg",
+    "launcher": "steam://run/442070"
   }
 ]
